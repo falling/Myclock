@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="main_backgound">#0C6BB0</color>
     <color name="fab_color">#BF1726</color>
+    <color name="main_text_color">#FFFFFF</color>
 </resources>
